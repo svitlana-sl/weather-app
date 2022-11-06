@@ -1,0 +1,56 @@
+.container {
+  color: #5e227f;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px 50px;
+  background: #f2f4fb;
+  border: none;
+  border-radius: 5px;
+}
+body {
+  margin: 0 auto;
+  background: #fff;
+}
+.icon {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  border-radius: 5px;
+}
+.units {
+  color: #d22780;
+}
+#temperature {
+  color: #d22780;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+#city-input {
+  border-color: lightgrey;
+}
+#search-button {
+  color: #fff;
+  background-color: #d22780;
+  border-color: #d22780;
+}
+#current-location-button {
+  color: #fff;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  color: #5e227f;
+  font-size: 16px;
+  font-weight: 100;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
